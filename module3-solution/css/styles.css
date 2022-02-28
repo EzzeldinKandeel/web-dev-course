@@ -1,0 +1,35 @@
+.navbar {
+    background-color: grey;
+}
+.navbar-default .navbar-brand {
+    color: black;
+}
+.navbar-default .navbar-toggle {
+    border-color: black
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: black
+}
+.navbar-nav {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    background-color: lightgrey;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: grey;
+    background-color: transparent;
+}
+.navbar-default .navbar-nav>li>a {
+    color: black;
+    text-align: center;
+    border-bottom: 2px solid black;
+}
+h1 {
+    font-size: 3rem;
+}
+#content {
+    width: 90%;
+    margin: 20px auto 20px auto;
+    height: 1000px;
+    background-color: grey;
+}
