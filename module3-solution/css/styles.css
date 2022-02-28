@@ -21,7 +21,7 @@
 }
 .navbar-default .navbar-nav>li>a {
     color: black;
-    text-align: center;
+    /* text-align: center; */
     border-bottom: 2px solid black;
 }
 h1 {
